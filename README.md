@@ -1,2 +1,2 @@
-# github-users1
-Created with CodeSandbox
+# github-repo-react
+Programming exercise to fetch github repos of a user
